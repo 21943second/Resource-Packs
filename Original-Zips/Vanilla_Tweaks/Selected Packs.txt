@@ -1,0 +1,30 @@
+Vanilla Tweaks Resource Pack
+Version: 1.15
+Packs:
+	MineProgressBar
+	StickyPistonSides
+	DirectionalHoppers
+	BetterObservers
+	CleanRedstoneDust
+	RedstonePowerLevels
+	VisibleTripwires
+	UnobtrusiveRain
+	UnobtrusiveScaffolding
+	CleanGlass
+	CleanStainedGlass
+	LowerShield
+	LowerFire
+	TransparentPumpkin
+	NoVignette
+	CleanerWorldBorder
+	SmallerUtilities
+	AlternateEnchantGlint
+	WitherHearts
+	LargeAttackIndicator
+	PingColorIndicator
+	RainbowExperience
+	TransparentGUI
+	SmootherFont
+	BlueWidgetsHighlight
+	BetterBedrock
+	SofterWool
