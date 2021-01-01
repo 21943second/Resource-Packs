@@ -1,0 +1,37 @@
+Vanilla Tweaks Resource Pack
+Version: 1.16
+Packs:
+	SolidHoney
+	SolidSlime
+	PlainLeatherArmor
+	SofterWool
+	BetterBedrock
+	BrighterNether
+	ClearerWater
+	SmootherStones
+	UniformOres
+	ShorterTallGrass
+	ShorterGrass
+	OreBorders
+	MineProgressBar
+	HungerPreview
+	DirectionalHoppers
+	CleanRedstoneDust
+	ArabicNumerals
+	BetterObservers
+	DirectionalDispensersDroppers
+	StickyPistonSides
+	VisibleTripwires
+	UnobtrusiveRain
+	UnobtrusiveSnow
+	UnobtrusiveParticles
+	CleanGlass
+	LowerFire
+	LowerShield
+	NoPumpkinOverlay
+	SmallerUtilities
+	CleanerWorldBorder
+	NoVignette
+	WitherHearts
+	LargeAttackIndicator
+	PingColorIndicator

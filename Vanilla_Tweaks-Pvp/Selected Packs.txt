@@ -1,11 +1,18 @@
 Vanilla Tweaks Resource Pack
-Version: 1.15
+Version: 1.16
 Packs:
+	BetterBedrock
+	ClearerWater
 	MineProgressBar
-	LowerFire
-	LowerShield
-	SmallerUtilities
 	WitherHearts
 	LargeAttackIndicator
-	MoreCrosshairs-SquareDot
-	TransparentGUI
+	PingColorIndicator
+	NoPumpkinOverlay
+	SmallerUtilities
+	NoVignette
+	CleanGlass
+	UnobtrusiveRain
+	UnobtrusiveSnow
+	UnobtrusiveParticles
+	LowerShield
+	LowerFire
